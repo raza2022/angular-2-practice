@@ -1,0 +1,16 @@
+.container .title{
+  color: #fff;
+  font-family: arial, Helvetica, sans-serif;
+  font-size: 250%;
+  text-align: center;
+  border-bottom: 1px dotted black;
+  width: 300px;
+  margin: 5px auto;
+  padding:5px;
+}
+
+.container .tag-line{
+  text-align: center;
+  margin:0;
+  color: #000;
+}
