@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'One Stop Shop';
-  tagLine = 'Where you can find all'
+  tagLine = 'Where you can find all';
 }
